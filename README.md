@@ -1,11 +1,11 @@
-# csvalues
+# csv11
 
-csvalues gem - read / parse comma-separated values (csv); supports csv 1.1 incl. comments, named values, multi-line records, and more
+csv11 library / gem - read / parse comma-separated values (csv); supports csv 1.1 incl. comments, named values, multi-line records, and more
 
-* home  :: [github.com/csvalues/csvalues](https://github.com/csvalues/csvalues)
-* bugs  :: [github.com/csvalues/csvalues/issues](https://github.com/csvalues/csvalues/issues)
-* gem   :: [rubygems.org/gems/csvalues](https://rubygems.org/gems/csvalues)
-* rdoc  :: [rubydoc.info/gems/csvalues](http://rubydoc.info/gems/csvalues)
+* home  :: [github.com/csv11/csv11](https://github.com/csv11/csv11)
+* bugs  :: [github.com/csv11/csv11/issues](https://github.com/csv11/csv11/issues)
+* gem   :: [rubygems.org/gems/csvalues](https://rubygems.org/gems/csv11)
+* rdoc  :: [rubydoc.info/gems/csvalues](http://rubydoc.info/gems/csv11)
 
 
 
@@ -19,7 +19,7 @@ to be done
 
 ![](https://publicdomainworks.github.io/buttons/zero88x31.png)
 
-The `csvalues` scripts are dedicated to the public domain.
+The `csv11` scripts are dedicated to the public domain.
 Use it as you please with no restrictions whatsoever.
 
 ## Questions? Comments?

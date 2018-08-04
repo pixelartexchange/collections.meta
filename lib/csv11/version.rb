@@ -3,7 +3,7 @@
 module Values
   MAJOR = 0    ## todo: namespace inside version or something - why? why not??
   MINOR = 0
-  PATCH = 2
+  PATCH = 3
   VERSION = [MAJOR,MINOR,PATCH].join('.')
 
   def self.version
@@ -11,7 +11,7 @@ module Values
   end
 
   def self.banner
-    "csvalues/#{VERSION} on Ruby #{RUBY_VERSION} (#{RUBY_RELEASE_DATE}) [#{RUBY_PLATFORM}]"
+    "csv11/#{VERSION} on Ruby #{RUBY_VERSION} (#{RUBY_RELEASE_DATE}) [#{RUBY_PLATFORM}]"
   end
 
   def self.root

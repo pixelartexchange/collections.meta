@@ -2,7 +2,7 @@ HISTORY.md
 Manifest.txt
 README.md
 Rakefile
-lib/csvalues.rb
-lib/csvalues/version.rb
+lib/csv11.rb
+lib/csv11/version.rb
 test/helper.rb
 test/test_version.rb

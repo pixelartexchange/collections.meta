@@ -7,4 +7,4 @@ require 'minitest/autorun'
 $RUBYLIBS_DEBUG = true
 
 ## our own code
-require 'csvalues'
+require 'csv11'

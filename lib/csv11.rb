@@ -6,7 +6,7 @@ require 'strscan'   ## StringScanner
 
 
 # our own code
-require 'csvalues/version'   # note: let version always go first
+require 'csv11/version'   # note: let version always go first
 
 
 module Values

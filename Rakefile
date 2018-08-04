@@ -1,14 +1,14 @@
 require 'hoe'
-require './lib/csvalues/version.rb'
+require './lib/csv11/version.rb'
 
-Hoe.spec 'csvalues' do
+Hoe.spec 'csv11' do
 
   self.version = Values::VERSION
 
-  self.summary = 'csvalues - read / parse comma-separated values (csv); supports csv 1.1 incl. comments, named values, multi-line records, and more'
+  self.summary = 'csv11 - read / parse comma-separated values (csv); supports csv 1.1 incl. comments, named values, multi-line records, and more'
   self.description = summary
 
-  self.urls    = ['https://github.com/csvalues/csvalues']
+  self.urls    = ['https://github.com/csv11/csv11']
 
   self.author  = 'Gerald Bauer'
   self.email   = 'ruby-talk@ruby-lang.org'
@@ -20,7 +20,7 @@ Hoe.spec 'csvalues' do
   self.licenses = ['Public Domain']
 
   self.spec_extras = {
-   required_ruby_version: '>= 1.9.2'
+   required_ruby_version: '>= 2.2.2'
   }
 
 end
