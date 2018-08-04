@@ -4,8 +4,8 @@ csv11 library / gem - read / parse comma-separated values (csv); supports csv 1.
 
 * home  :: [github.com/csv11/csv11](https://github.com/csv11/csv11)
 * bugs  :: [github.com/csv11/csv11/issues](https://github.com/csv11/csv11/issues)
-* gem   :: [rubygems.org/gems/csvalues](https://rubygems.org/gems/csv11)
-* rdoc  :: [rubydoc.info/gems/csvalues](http://rubydoc.info/gems/csv11)
+* gem   :: [rubygems.org/gems/csv11](https://rubygems.org/gems/csv11)
+* rdoc  :: [rubydoc.info/gems/csv11](http://rubydoc.info/gems/csv11)
 
 
 
